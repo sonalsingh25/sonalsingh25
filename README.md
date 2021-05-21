@@ -30,7 +30,9 @@ or <a href="mailto:sonalsingh7573@gmail.com"><b>email</b></a> me.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalsingh25&" alt="sonalsingh25" /></p>
 </br>
 </br>
-<i>Random joke for you!</i><br>
+<i>Random joke for you!</i>
+<br>
+<br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
 ---
