@@ -54,7 +54,7 @@ or <a href="mailto:sonalsingh7573@gmail.com"><b>email</b></a> me.
 
 ---
 <!-- skills -->
-
+[![Sonal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sonalsingh25&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/sonalsingh25/github-readme-activity-graph)
 
 <i>Connect with me across the web :</i>
 <br>
