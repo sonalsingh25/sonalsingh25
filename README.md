@@ -37,7 +37,6 @@ or <a href="mailto:sonalsingh7573@gmail.com"><b>email</b></a> me.
 </div>
 <!-- Git Hub Stats -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalsingh25&show_icons=true&theme=light&text_color=ff0000&locale=en" alt="sonalsingh25" /></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalsingh25&show_icons=true&locale=en&layout=compact" alt="sonalsingh25" /></p>
